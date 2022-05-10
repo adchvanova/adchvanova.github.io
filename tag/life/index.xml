@@ -5,12 +5,21 @@
     <link>https://example.com/tag/life/</link>
       <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>Life</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Life</title>
       <link>https://example.com/tag/life/</link>
     </image>
+    
+    <item>
+      <title>week (May 2 - May 8)</title>
+      <link>https://example.com/post/weekmay2-may8/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/weekmay2-may8/</guid>
+      <description>&lt;p&gt;I came home last week. It wasn&amp;rsquo;t bad, I even managed to do all the lab work and assignments. And the food appears at home by itself, I rested and slept well. I put 8 out of 10 this week.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>week (April 28 - May 5 )</title>
