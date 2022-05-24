@@ -33,6 +33,81 @@
     </item>
     
     <item>
+      <title>Scientific programming languages</title>
+      <link>https://example.com/post/scientific-programming-languages/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/scientific-programming-languages/</guid>
+      <description>&lt;h2 id=&#34;scientific-programming-languages-and-environments&#34;&gt;Scientific Programming Languages and Environments.&lt;/h2&gt;
+&lt;p&gt;As computers become more ubiquitous in physics research (and scientific research in general), the issue of which programming languages to use becomes more important. Factors which especially influence the importance of this question are&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;the increasing complexity of the tasks being programmed;
+the increasing complexity and diversity of the machines being programmed;
+the increasing use of graphical visualization and interfacing to scientific programs; and
+the increasing number of the programming languages available in which to program. 
+
+C and C++
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;C is an interesting choice as a scientific language. It is extremely flexible and available on about every machine known to man. Also, one of the best C compilers (gcc) is available for free. Almost all visualization and user-interface packages support the C language. C is frequently taught as a first or second language in university computer-science departments.&lt;/p&gt;
+&lt;p&gt;A long-standing gripe about C is that it produces slower code than does the equivalent Fortran. Nowadays, computer speeds are doubling every year or so, and C compilers don&amp;rsquo;t seem to be doing that bad compared to Fortran anymore (typical C code runs between 50 and 100% as fast as the equivalent Fortran, depending on the application). In light of this, I think it&amp;rsquo;s hard to discard C on the basis of the speed of the code it produces.&lt;/p&gt;
+&lt;p&gt;Nevertheless, I don&amp;rsquo;t think it&amp;rsquo;s a good scientific programming language. The C language is fairly close to the hardware, and it is quite easy to make big mistakes in coding an application. These mistakes often don&amp;rsquo;t display themselves in small test cases, since they involve memory-management issues and the like. Also, programming large applications in C requires some degree of professionalism, meaning a fairly deep grasp of the language. As such, it is a bad language for mainstream scientific programming; typically only the creator of a program, or people with real expertise in computer programming, will be able to understand a large C application unless it is very carefully written.&lt;/p&gt;
+&lt;p&gt;I believe these comments also apply to C++ coding. The concerns about readability and professionalism apply perhaps even more strongly here than for &amp;ldquo;just C&amp;rdquo;. C++ has the advantage of being the most-popular object-oriented language, but it is also recognized as being a fairly cryptic one. Again, a certain degree of professionalism is necessary to program a C++ application which is understandable to others. Packages which automatically generate C++ code from user-specified pseudocode help alleviate the problem, but then we are faced with asking all users to use the same C++ generator, which is another problem of the same magnitude.&lt;/p&gt;
+&lt;p&gt;The above two are the &amp;ldquo;traditional&amp;rdquo; choices. I now turn to newer languages which are less well known in the scientific community.
+Python
+Python is an object-oriented, extensible, interpreted language. It runs on essentially all Unix systems, as well as on DOS/Windows platforms and on the Mac. It is free and comes with complete source code. It is very easy to begin using Python &amp;mdash; at a simple level, it resembles Basic and can be used interactively in the same way as Basic. However, it supports object methods and &amp;ldquo;scales&amp;rdquo; nicely. Scaling indicates the relative difficulty of writing small vs. large applications. The object facilities help and encourage one to write an application in small pieces. These small pieces can be put together to make the big program, and the small pieces can also be used in other applications.&lt;/p&gt;
+&lt;p&gt;Another advantage of Python is its extensibility. One can write an object library in C, C++, or native Python, which can then either be dynamically or statically linked with the main Python system and used in Python programs. One can use this to make a programmable application, such as a data-plotting package. One would add a package to the interpreter which contained commands to set up your plots and to actually plot the data. This Python+graphics interpreter can be given a different name, such as &amp;ldquo;pygraph&amp;rdquo;, and invoked as a command. The interpreter will process the graphics commands and perform them. However, at the same time you can use any other valid Python command as a command to this graphics program! Thus one graphics input file for this program could first compute the result and then manipulate and plot it.&lt;/p&gt;
+&lt;p&gt;The leap from this to having Python+package systems such as data-analysis programs, or experiment-control programs, is fairly obvious. This can also solve to some extent the above-mentioned dilemma about the use of C++. A professional programmer can produce a well-defined library package with a well-defined interface in C++, and this can be included into the Python programs for use. As Python is quite readable in much the same was as is Fortran, a &amp;ldquo;normal person&amp;rdquo; (i.e. someone who is not a professional programmer) can use this library in his programs. Both the professionals, who want the power and efficiency of C or C++, as well as the group who must use the result and be able to read and understand the program, can be happy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>week (May 16 - May 22)</title>
+      <link>https://example.com/post/weekmay16-may22/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/weekmay16-may22/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m very tired, I&amp;rsquo;m solving issues with moving. For some reason, the application is not signed for a long time. I will come every day until they sign&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Влияние ультразвука на физиолого-биохимические параметры гриба биодеструктора древесины Trichoderma viride</title>
+      <link>https://example.com/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</guid>
+      <description>&lt;p&gt;В процессе жизнедеятельности человек часто использует древесину В процессе транспортировки, хранения и эксплуатации данные материалы вовлекаются в различные трофические цепи микроорганизмов, которые используют их в качестве источников питания. Наиболее активными деструкторами различных синтетических материалов, в том числе и древесины, являются микроскопические грибы. Данные организмы обладают мощными ферментными системами (оксидоредуктазы, лиазы, гидролазы и др.) и достаточно устойчивы к воздействию абиотических факторов внешней среды. Видовой состав и степень биодеградации определяются как составом самого субстрата, так и набором продуктов жизнедеятельности, выделяемых грибами при росте на материалах. В связи с этим знания о полифагии и стенофагии грибов чрезвычайно важны для прикладной экологии, микробиологии и биотехнологии. Рост грибов сопровождается изменением декоративных и физикохимических свойств древесины и различных покрытий, а также изменением технических характеристик изделий, в которых используются древесина.
+Цель: исследовать динамику соотношения эндо и экзо ферментативной активности у гриба Trichoderma Viride в зависимости от времени ультразвукового воздействия
+Для этого были поставлены следующие задачи: 
+1. Установить влияние длительности ультразвуковой обработки на активность каталазы, пероксидазы и амилазы в культуральной жидкости  грибов Trichoderma Viride  
+2. Установить влияние длительности ультразвуковой обработки на активность каталазы, пероксидазы и амилазы в мицелии грибов Trichoderma Viride  
+3. Сравнить активность каталазы , пероксидазы  и амилазы у исследуемых грибов в норме и под действием ультразвука. 
+4. Провести статическую обработку результатов 
+5. Проанализировать полученные данные&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Ультразвуковая обработка поможет в борьбе с биодеструкторами древесины  , в том числе и с Trichoderma Viride , что подтверждают наши исследования. Ультразвуковое воздействие существенно снижает показатели активности многих ферментов, что свидетельствует о нарушение нормальной жизнедеятельности гриба и , гриб подвержен негативному воздействию ультразвука. При отпределенном времени воздействия  ультразвук ингибирует активность ферментов, что говорит о том, что воздействие ультразвуком можно рассматривать как одну из мер борьбы с грибом Trichoderma Viride
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Определение PAM последовательностей cas9 нуклеазы для последующего создания инструмента редактирования генов биообъектов для агропромышленного комплекса</title>
+      <link>https://example.com/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</guid>
+      <description>&lt;p&gt;Прокариоты развили многочисленные врожденные иммунные механизмы, чтобы отразить атаку бактериофагов или плазмид. Одна из этих иммунных систем кластеризуется регулярно чередующимися короткими палиндромными повторами (CRISPR). CRISPR-ассоциированные белки играют ключевую роль в выживании прокариот против захватчиков, так как эти системы расщепляют ДНК чужеродных генетических элементов. Помимо обеспечения иммунитета, эти системы оказывают значительное влияние на изменение бактериальной физиологии с точки зрения ее вирулентности и патогенности, а также эволюции. Также, из-за их разнообразной природы функциональности, эндорибонуклеазу cas9 можно легко перепрограммировать с помощью направляющих РНК, показывающих беспрецедентный потенциал и значимость для редактирования генов в лечении генетических заболеваний. С помощью данной системы можно редактировать наиболее значимые для качеств необходимых человеку гены биообъектов, влияя на их экспрессию.
+Задачи:
+1.Разработать метод определения PAM последовательностей cas9  нуклеазы у прокариотических организмов с целью последующего использования найденных РАМ в сельском хозяйстве
+2.Определить РАМ последовательности для Cas 9 нуклеазы Streptococcus pyogenes необходимых для редактирования исследуемых генов. Найти РАМ последовательности в исследуемых генах антиоксидантой защиты.&lt;/p&gt;
+&lt;p&gt;3.Провести биоинформатический анализ генов антиоксидантой защиты у Triticum aectivum, Aspergillus niger и Alternaria alternaria путём множественного и попарного выравнивания нуклеотидных и аминокислотных последовательностей и выявления филогенетических связей.&lt;/p&gt;
+&lt;p&gt;Системы CRISPR-Cas обнаружены почти у всех известных архей и половины бактерий. Чаще они находятся на хромосоме, реже — в составе фагов (вирусов бактерий) и других мобильных генетических элементов. Эти системы состоят из двух основных блоков: CRISPR-кассеты и прилегающего к ней кластера генов cas. Кассета — это блок прямых почти палиндромных («зеркальных», взаимокомплементарных последовательностей, способных складываться в шпильки) повторов размером 24–48 пар нуклеотидов. Эти повторы перемежаются спейсерами — уникальными вставками примерно такой же длины. Спейсеры идентичны различным участкам фагов и других мобильных элементов, когда-либо проникавших в эту клетку или ее предков.
+Значение данной системы заключается в адаптивном иммунитете. Каждый раз, когда бактерии удается убить вирус, она разрезает остатки его генетического материала и сохраняет их внутри последовательностей CRISPR. Затем эта информация используется в случае новой вирусной атаки. При нападении бактерия производит белки Cas9, которые несут фрагмент генетического материала вируса. Если этот участок и генетический материал атакующего вируса совпадают, Cas9 разрезает генетический материал последнего и нейтрализует угрозу.
+Однако недавно проведенные исследования показали, что CRISPR система имеет другие функциональные роли за пределами адаптивного иммунитета . Роль системы CRISPR-cas в адаптивном единстве прокариот наряду с их ролью влияние систем CRISPR в эволюции бактериальных геномов(в результате «гонки вооружения между фагами и бактериями» наблюдается их коэволюция ), регуляция экспрессии генов, а также их использование в различных областях медицины и биоинженерии.
+Выводы&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;На основе in silico поиска РАМ последовательностей Cas9 нуклеазы разработана in vitro система работающая по принципу отрицательный результат - РАМ последовательность подтверждена, положительный результат ПЦР - РАМ последовательность не подтверждена.&lt;/li&gt;
+&lt;li&gt;Определена РАМ последовательность для Cas 9 нуклеазы Streptococcus pyogenes, что соответствует NGG, у Streptococcus thermophilus - AGAA, располагается справа от sgRNA.
+3)Найдены консервативные участки генов Cu/Zn SOD и САТ грибов рода Aspergillus и Alternaria, в которых обнаружена РАМ последовательность, что позволит дезактивировать их путём рестрикции с помощью sgRNA-Cas9 комплекса.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>week (May 9 - May 15)</title>
       <link>https://example.com/post/weekmay9-may15/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
