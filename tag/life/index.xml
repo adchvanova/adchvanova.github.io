@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life | Academic</title>
-    <link>https://example.com/tag/life/</link>
-      <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adchvanova.github.io/tag/life/</link>
+      <atom:link href="https://adchvanova.github.io/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>Life</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://adchvanova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Life</title>
-      <link>https://example.com/tag/life/</link>
+      <link>https://adchvanova.github.io/tag/life/</link>
     </image>
     
     <item>
       <title>week (May 16 - May 22)</title>
-      <link>https://example.com/post/weekmay16-may22/</link>
+      <link>https://adchvanova.github.io/post/weekmay16-may22/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay16-may22/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay16-may22/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very tired, I&amp;rsquo;m solving issues with moving. For some reason, the application is not signed for a long time. I will come every day until they sign&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>week (May 9 - May 15)</title>
-      <link>https://example.com/post/weekmay9-may15/</link>
+      <link>https://adchvanova.github.io/post/weekmay9-may15/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay9-may15/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay9-may15/</guid>
       <description>&lt;p&gt;I decided not to postpone everything for later, so I will be productive at the beginning of the week. Also this week, a test work on programming technology, strength and luck will take place for me&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>week (May 2 - May 8)</title>
-      <link>https://example.com/post/weekmay2-may8/</link>
+      <link>https://adchvanova.github.io/post/weekmay2-may8/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay2-may8/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay2-may8/</guid>
       <description>&lt;p&gt;I came home last week. It wasn&amp;rsquo;t bad, I even managed to do all the lab work and assignments. And the food appears at home by itself, I rested and slept well. I put 8 out of 10 this week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>week (April 28 - May 5 )</title>
-      <link>https://example.com/post/weekapril28-may5/</link>
+      <link>https://adchvanova.github.io/post/weekapril28-may5/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekapril28-may5/</guid>
+      <guid>https://adchvanova.github.io/post/weekapril28-may5/</guid>
       <description>&lt;p&gt;Who is it easy for now? So it wasn&amp;rsquo;t easy for me either. I made labs, bought chebupeli. It was delicious, but then my stomach hurt&amp;hellip;&lt;/p&gt;
 </description>
     </item>

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life | Academic</title>
-    <link>https://example.com/ru/tag/life/</link>
-      <atom:link href="https://example.com/ru/tag/life/index.xml" rel="self" type="application/rss+xml" />
+    <title>Life | ru website title...</title>
+    <link>https://adchvanova.github.io/ru/tag/life/</link>
+      <atom:link href="https://adchvanova.github.io/ru/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>Life</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://adchvanova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Life</title>
-      <link>https://example.com/ru/tag/life/</link>
+      <link>https://adchvanova.github.io/ru/tag/life/</link>
     </image>
     
     <item>
       <title>Неделя (Май 16 - Май 22)</title>
-      <link>https://example.com/ru/post/weekmay16-may22/</link>
+      <link>https://adchvanova.github.io/ru/post/weekmay16-may22/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekmay16-may22/</guid>
+      <guid>https://adchvanova.github.io/ru/post/weekmay16-may22/</guid>
       <description>&lt;p&gt;Я очень устала, решаю вопросы с переездом. Почему-то долго не подписывается заявка. Я буду приходить каждый день, пока они не подпишут&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>неделя (Май 9 - Май 15)</title>
-      <link>https://example.com/ru/post/weekmay9-may15/</link>
+      <link>https://adchvanova.github.io/ru/post/weekmay9-may15/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekmay9-may15/</guid>
+      <guid>https://adchvanova.github.io/ru/post/weekmay9-may15/</guid>
       <description>&lt;p&gt;Я решила не откладывать все на потом, поэтому буду продуктивной в начале недели. Также на этой неделе для меня состоится контрольная работа по технике программирования, сил и удачи мне.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>неделя (Май 2 - Май 8)</title>
-      <link>https://example.com/ru/post/weekmay2-may8/</link>
+      <link>https://adchvanova.github.io/ru/post/weekmay2-may8/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekmay2-may8/</guid>
+      <guid>https://adchvanova.github.io/ru/post/weekmay2-may8/</guid>
       <description>&lt;p&gt;Я приезжала домой на прошлой неделе. Это было неплохо, я даже успела сделать все лабораторные работы и задания. А еда дома появляется сама собой, я хорошо отдохнула и выспалась. Этой неделе ставлю 8 из 10.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>неделя (Апрель 28 - Май 5 )</title>
-      <link>https://example.com/ru/post/weekapril28-may5/</link>
+      <link>https://adchvanova.github.io/ru/post/weekapril28-may5/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekapril28-may5/</guid>
+      <guid>https://adchvanova.github.io/ru/post/weekapril28-may5/</guid>
       <description>&lt;p&gt;А кому сейчас легко? Так что мне тоже было нелегко. Сделала лабы, купила чебупели. Было вкусно, но потом заболел живот&amp;hellip;&lt;/p&gt;
 </description>
     </item>

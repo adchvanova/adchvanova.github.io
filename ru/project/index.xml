@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | ru website title...</title>
+    <link>https://adchvanova.github.io/ru/project/</link>
+      <atom:link href="https://adchvanova.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://adchvanova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://adchvanova.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Влияние ультразвука на физиолого-биохимические параметры гриба биодеструктора древесины Trichoderma viride</title>
-      <link>https://example.com/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</link>
+      <link>https://adchvanova.github.io/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</guid>
+      <guid>https://adchvanova.github.io/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</guid>
       <description>&lt;p&gt;В процессе жизнедеятельности человек часто использует древесину В процессе транспортировки, хранения и эксплуатации данные материалы вовлекаются в различные трофические цепи микроорганизмов, которые используют их в качестве источников питания. Наиболее активными деструкторами различных синтетических материалов, в том числе и древесины, являются микроскопические грибы. Данные организмы обладают мощными ферментными системами (оксидоредуктазы, лиазы, гидролазы и др.) и достаточно устойчивы к воздействию абиотических факторов внешней среды. Видовой состав и степень биодеградации определяются как составом самого субстрата, так и набором продуктов жизнедеятельности, выделяемых грибами при росте на материалах. В связи с этим знания о полифагии и стенофагии грибов чрезвычайно важны для прикладной экологии, микробиологии и биотехнологии. Рост грибов сопровождается изменением декоративных и физикохимических свойств древесины и различных покрытий, а также изменением технических характеристик изделий, в которых используются древесина.
 Цель: исследовать динамику соотношения эндо и экзо ферментативной активности у гриба Trichoderma Viride в зависимости от времени ультразвукового воздействия
 Для этого были поставлены следующие задачи: 
@@ -32,9 +32,9 @@
     
     <item>
       <title>Определение PAM последовательностей cas9 нуклеазы для последующего создания инструмента редактирования генов биообъектов для агропромышленного комплекса</title>
-      <link>https://example.com/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</link>
+      <link>https://adchvanova.github.io/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</guid>
+      <guid>https://adchvanova.github.io/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</guid>
       <description>&lt;p&gt;Прокариоты развили многочисленные врожденные иммунные механизмы, чтобы отразить атаку бактериофагов или плазмид. Одна из этих иммунных систем кластеризуется регулярно чередующимися короткими палиндромными повторами (CRISPR). CRISPR-ассоциированные белки играют ключевую роль в выживании прокариот против захватчиков, так как эти системы расщепляют ДНК чужеродных генетических элементов. Помимо обеспечения иммунитета, эти системы оказывают значительное влияние на изменение бактериальной физиологии с точки зрения ее вирулентности и патогенности, а также эволюции. Также, из-за их разнообразной природы функциональности, эндорибонуклеазу cas9 можно легко перепрограммировать с помощью направляющих РНК, показывающих беспрецедентный потенциал и значимость для редактирования генов в лечении генетических заболеваний. С помощью данной системы можно редактировать наиболее значимые для качеств необходимых человеку гены биообъектов, влияя на их экспрессию.
 Задачи:
 1.Разработать метод определения PAM последовательностей cas9  нуклеазы у прокариотических организмов с целью последующего использования найденных РАМ в сельском хозяйстве
@@ -54,9 +54,9 @@
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/ru/project/example/</link>
+      <link>https://adchvanova.github.io/ru/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/example/</guid>
+      <guid>https://adchvanova.github.io/ru/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

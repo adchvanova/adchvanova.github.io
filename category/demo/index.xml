@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adchvanova.github.io/category/demo/</link>
+      <atom:link href="https://adchvanova.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://adchvanova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <link>https://adchvanova.github.io/category/demo/</link>
     </image>
     
     <item>
       <title>Scientific programming languages</title>
-      <link>https://example.com/post/scientific-programming-languages/</link>
+      <link>https://adchvanova.github.io/post/scientific-programming-languages/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-programming-languages/</guid>
+      <guid>https://adchvanova.github.io/post/scientific-programming-languages/</guid>
       <description>&lt;h2 id=&#34;scientific-programming-languages-and-environments&#34;&gt;Scientific Programming Languages and Environments.&lt;/h2&gt;
 &lt;p&gt;As computers become more ubiquitous in physics research (and scientific research in general), the issue of which programming languages to use becomes more important. Factors which especially influence the importance of this question are&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;the increasing complexity of the tasks being programmed;
@@ -40,27 +40,27 @@ Python is an object-oriented, extensible, interpreted language. It runs on essen
     
     <item>
       <title>week (May 16 - May 22)</title>
-      <link>https://example.com/post/weekmay16-may22/</link>
+      <link>https://adchvanova.github.io/post/weekmay16-may22/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay16-may22/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay16-may22/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m very tired, I&amp;rsquo;m solving issues with moving. For some reason, the application is not signed for a long time. I will come every day until they sign&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>week (May 9 - May 15)</title>
-      <link>https://example.com/post/weekmay9-may15/</link>
+      <link>https://adchvanova.github.io/post/weekmay9-may15/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay9-may15/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay9-may15/</guid>
       <description>&lt;p&gt;I decided not to postpone everything for later, so I will be productive at the beginning of the week. Also this week, a test work on programming technology, strength and luck will take place for me&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Working with bibliography</title>
-      <link>https://example.com/post/working-with-bibliography/</link>
+      <link>https://adchvanova.github.io/post/working-with-bibliography/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/working-with-bibliography/</guid>
+      <guid>https://adchvanova.github.io/post/working-with-bibliography/</guid>
       <description>&lt;h2 id=&#34;a-working-bibliography-lists-all-the-sources-that-you-might-use-in-your-research-essay&#34;&gt;A working bibliography lists all the sources that you might use in your research essay.&lt;/h2&gt;
 &lt;p&gt;A working bibliography lists all the sources that you might use in your research essay. It is a &amp;ldquo;working&amp;rdquo; document in two ways. For one thing, it will change throughout the research process—expanding each time you add a potentially useful source and contracting when you omit sources that turn out to be less relevant than you anticipated. Also, once you have written your essay, your working bibliography will evolve one last time, becoming your list of works cited. For another thing, you can use your bibliography to organize and keep track of your research &amp;ldquo;work.&amp;rdquo; To this end, some researchers divide the bibliography into three parts: (1) sources that they need to locate, (2) sources that they have located and think they will use, and (3) sources that they have located but think they probably won’t use.
 Because you will need to update your bibliography regularly and because it will ultimately become the kernel of your list of works cited, you should consider using a computer. In that case, you’ll need to print a copy or take your laptop along each time you head to the library. However, some researchers find it helpful to also or instead use notecards, creating a separate card for each source. You can then physically separate cards dedicated to sources to be located, sources already located, and &amp;ldquo;rejected&amp;rdquo; sources. Just in case your cards get mixed up, however, you should also always note the status of the source on the card.&lt;/p&gt;
@@ -69,9 +69,9 @@ Because you will need to update your bibliography regularly and because it will 
     
     <item>
       <title>Markdown language</title>
-      <link>https://example.com/post/markdown-language/</link>
+      <link>https://adchvanova.github.io/post/markdown-language/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown-language/</guid>
+      <guid>https://adchvanova.github.io/post/markdown-language/</guid>
       <description>&lt;h2 id=&#34;markdown-is-intended-to-be-as-easy-to-read-and-easy-to-write-as-is-feasible&#34;&gt;Markdown is intended to be as easy-to-read and easy-to-write as is feasible.&lt;/h2&gt;
 &lt;p&gt;Readability, however, is emphasized above all else. A Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions. While Markdown’s syntax has been influenced by several existing text-to-HTML filters — including Setext, atx, Textile, reStructuredText, Grutatext, and EtText — the single biggest source of inspiration for Markdown’s syntax is the format of plain text email.&lt;/p&gt;
 &lt;p&gt;To this end, Markdown’s syntax is comprised entirely of punctuation characters, which punctuation characters have been carefully chosen so as to look like what they mean. E.g., asterisks around a word actually look like &lt;em&gt;emphasis&lt;/em&gt;. Markdown lists look like, well, lists. Even blockquotes look like quoted passages of text, assuming you’ve ever used email.&lt;/p&gt;
@@ -81,18 +81,18 @@ Because you will need to update your bibliography regularly and because it will 
     
     <item>
       <title>week (May 2 - May 8)</title>
-      <link>https://example.com/post/weekmay2-may8/</link>
+      <link>https://adchvanova.github.io/post/weekmay2-may8/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekmay2-may8/</guid>
+      <guid>https://adchvanova.github.io/post/weekmay2-may8/</guid>
       <description>&lt;p&gt;I came home last week. It wasn&amp;rsquo;t bad, I even managed to do all the lab work and assignments. And the food appears at home by itself, I rested and slept well. I put 8 out of 10 this week.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Version Control git</title>
-      <link>https://example.com/post/version_control/</link>
+      <link>https://adchvanova.github.io/post/version_control/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/version_control/</guid>
+      <guid>https://adchvanova.github.io/post/version_control/</guid>
       <description>&lt;h2 id=&#34;what-is-version-control-and-why-should-you-care&#34;&gt;What is “version control”, and why should you care?&lt;/h2&gt;
 &lt;p&gt;Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book, you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer.&lt;/p&gt;
 &lt;p&gt;If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more. Using a VCS also generally means that if you screw things up or lose files, you can easily recover. In addition, you get all this for very little overhead.&lt;/p&gt;
@@ -101,18 +101,18 @@ Because you will need to update your bibliography regularly and because it will 
     
     <item>
       <title>week (April 28 - May 5 )</title>
-      <link>https://example.com/post/weekapril28-may5/</link>
+      <link>https://adchvanova.github.io/post/weekapril28-may5/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekapril28-may5/</guid>
+      <guid>https://adchvanova.github.io/post/weekapril28-may5/</guid>
       <description>&lt;p&gt;Who is it easy for now? So it wasn&amp;rsquo;t easy for me either. I made labs, bought chebupeli. It was delicious, but then my stomach hurt&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://adchvanova.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://adchvanova.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;

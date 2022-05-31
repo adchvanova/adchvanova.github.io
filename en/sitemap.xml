@@ -4,64 +4,34 @@
   
   
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/"
+      href="https://adchvanova.github.io/ru/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/"
+      href="https://adchvanova.github.io/"
     /></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/talk/example-talk/"
+      href="https://adchvanova.github.io/ru/talk/example-talk/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/talk/example-talk/"
+      href="https://adchvanova.github.io/talk/example-talk/"
     /></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/event/"
+      href="https://adchvanova.github.io/ru/event/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/event/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://example.com/tag/academic/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://example.com/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://example.com/categories/"
+      href="https://adchvanova.github.io/event/"
     /></url>
   <url>
     <loc></loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -74,174 +44,204 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/tag/academic/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/deep-learning/"
+      href="https://adchvanova.github.io/ru/tag/academic/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/deep-learning/"
+      href="https://adchvanova.github.io/tag/academic/"
     /></url>
   <url>
-    <loc>https://example.com/category/demo/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/categories/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/demo/"
+      href="https://adchvanova.github.io/ru/categories/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/demo/"
+      href="https://adchvanova.github.io/categories/"
     /></url>
   <url>
-    <loc>https://example.com/tag/life/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/life/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/life/"
+      href=""
     /></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/tag/deep-learning/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/"
+      href="https://adchvanova.github.io/ru/tag/deep-learning/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/"
+      href="https://adchvanova.github.io/tag/deep-learning/"
     /></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/category/demo/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/"
+      href="https://adchvanova.github.io/ru/category/demo/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/"
+      href="https://adchvanova.github.io/category/demo/"
     /></url>
   <url>
-    <loc>https://example.com/post/scientific-programming-languages/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/tag/life/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/scientific-programming-languages/"
+      href="https://adchvanova.github.io/ru/tag/life/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/scientific-programming-languages/"
+      href="https://adchvanova.github.io/tag/life/"
     /></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tags/"
+      href="https://adchvanova.github.io/ru/post/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tags/"
+      href="https://adchvanova.github.io/post/"
     /></url>
   <url>
-    <loc>https://example.com/post/weekmay16-may22/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/project/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/weekmay16-may22/"
+      href="https://adchvanova.github.io/ru/project/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/weekmay16-may22/"
+      href="https://adchvanova.github.io/project/"
     /></url>
   <url>
-    <loc>https://example.com/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/scientific-programming-languages/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./"
+      href="https://adchvanova.github.io/ru/post/scientific-programming-languages/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./"
+      href="https://adchvanova.github.io/post/scientific-programming-languages/"
     /></url>
   <url>
-    <loc>https://example.com/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/tags/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/"
+      href="https://adchvanova.github.io/ru/tags/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/"
+      href="https://adchvanova.github.io/tags/"
     /></url>
   <url>
-    <loc>https://example.com/post/weekmay9-may15/</loc><lastmod>2022-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/weekmay16-may22/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/weekmay9-may15/"
+      href="https://adchvanova.github.io/ru/post/weekmay16-may22/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/weekmay9-may15/"
+      href="https://adchvanova.github.io/post/weekmay16-may22/"
     /></url>
   <url>
-    <loc>https://example.com/post/working-with-bibliography/</loc><lastmod>2022-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/working-with-bibliography/"
+      href="https://adchvanova.github.io/ru/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/working-with-bibliography/"
+      href="https://adchvanova.github.io/project/vlianie_ultrazvuka_na_biokhimicheskie_parametry_griba_biodestruktora_drevesiny_trichoderma_viride./"
     /></url>
   <url>
-    <loc>https://example.com/post/markdown-language/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/</loc><lastmod>2022-05-24T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/markdown-language/"
+      href="https://adchvanova.github.io/ru/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/markdown-language/"
+      href="https://adchvanova.github.io/project/opredelenie_pam_posledovatelnostey_cas9_nukleazy_dlya_posleduyuschego_sozdania_instrumenta_redaktirovania_genov_bioobektov_dlya/"
     /></url>
   <url>
-    <loc>https://example.com/post/weekmay2-may8/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/weekmay9-may15/</loc><lastmod>2022-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/weekmay2-may8/"
+      href="https://adchvanova.github.io/ru/post/weekmay9-may15/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/weekmay2-may8/"
+      href="https://adchvanova.github.io/post/weekmay9-may15/"
     /></url>
   <url>
-    <loc>https://example.com/post/version_control/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/working-with-bibliography/</loc><lastmod>2022-05-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/version_control/"
+      href="https://adchvanova.github.io/ru/post/working-with-bibliography/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/version_control/"
+      href="https://adchvanova.github.io/post/working-with-bibliography/"
     /></url>
   <url>
-    <loc>https://example.com/post/weekapril28-may5/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/markdown-language/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/weekapril28-may5/"
+      href="https://adchvanova.github.io/ru/post/markdown-language/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/weekapril28-may5/"
+      href="https://adchvanova.github.io/post/markdown-language/"
     /></url>
   <url>
-    <loc>https://example.com/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/post/weekmay2-may8/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/post/getting-started/"
+      href="https://adchvanova.github.io/ru/post/weekmay2-may8/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/post/getting-started/"
+      href="https://adchvanova.github.io/post/weekmay2-may8/"
+    /></url>
+  <url>
+    <loc>https://adchvanova.github.io/post/version_control/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://adchvanova.github.io/ru/post/version_control/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://adchvanova.github.io/post/version_control/"
+    /></url>
+  <url>
+    <loc>https://adchvanova.github.io/post/weekapril28-may5/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://adchvanova.github.io/ru/post/weekapril28-may5/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://adchvanova.github.io/post/weekapril28-may5/"
+    /></url>
+  <url>
+    <loc>https://adchvanova.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://adchvanova.github.io/ru/post/getting-started/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://adchvanova.github.io/post/getting-started/"
     /></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -254,94 +254,94 @@
       href=""
     /></url>
   <url>
-    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/tag/%E5%BC%80%E6%BA%90/"
+      href="https://adchvanova.github.io/ru/tag/%E5%BC%80%E6%BA%90/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/tag/%E5%BC%80%E6%BA%90/"
+      href="https://adchvanova.github.io/tag/%E5%BC%80%E6%BA%90/"
     /></url>
   <url>
-    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/"
+      href="https://adchvanova.github.io/ru/category/%E6%95%99%E7%A8%8B/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/category/%E6%95%99%E7%A8%8B/"
+      href="https://adchvanova.github.io/category/%E6%95%99%E7%A8%8B/"
     /></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/"
+      href="https://adchvanova.github.io/ru/slides/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/"
+      href="https://adchvanova.github.io/slides/"
     /></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/slides/example/"
+      href="https://adchvanova.github.io/ru/slides/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/slides/example/"
+      href="https://adchvanova.github.io/slides/example/"
     /></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/project/example/"
+      href="https://adchvanova.github.io/ru/project/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/project/example/"
+      href="https://adchvanova.github.io/project/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication-type/1/"
+      href="https://adchvanova.github.io/ru/publication-type/1/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication-type/1/"
+      href="https://adchvanova.github.io/publication-type/1/"
     /></url>
   <url>
-    <loc>https://example.com/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/example/"
+      href="https://adchvanova.github.io/ru/publication/example/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/example/"
+      href="https://adchvanova.github.io/publication/example/"
     /></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication_types/"
+      href="https://adchvanova.github.io/ru/publication_types/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication_types/"
+      href="https://adchvanova.github.io/publication_types/"
     /></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://adchvanova.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://example.com/ru/publication/"
+      href="https://adchvanova.github.io/ru/publication/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://example.com/publication/"
+      href="https://adchvanova.github.io/publication/"
     /></url>
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link

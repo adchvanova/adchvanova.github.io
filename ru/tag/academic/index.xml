@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/ru/tag/academic/</link>
-      <atom:link href="https://example.com/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <title>Academic | ru website title...</title>
+    <link>https://adchvanova.github.io/ru/tag/academic/</link>
+      <atom:link href="https://adchvanova.github.io/ru/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://adchvanova.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/tag/academic/</link>
+      <link>https://adchvanova.github.io/ru/tag/academic/</link>
     </image>
     
     <item>
       <title>Научные языки программирования</title>
-      <link>https://example.com/ru/post/scientific-programming-languages/</link>
+      <link>https://adchvanova.github.io/ru/post/scientific-programming-languages/</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-programming-languages/</guid>
+      <guid>https://adchvanova.github.io/ru/post/scientific-programming-languages/</guid>
       <description>&lt;h2 id=&#34;научные-языки-программирования-и-среды&#34;&gt;Научные языки программирования и среды.&lt;/h2&gt;
 &lt;p&gt;По мере того, как компьютеры становятся все более распространенными в физических исследованиях (и научных исследованиях в целом), вопрос о том, какие языки программирования использовать, становится все более важным. Факторы, которые особенно влияют на важность этого вопроса:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;возрастающая сложность программируемых задач;
@@ -40,9 +40,9 @@ Python — это объектно-ориентированный расширя
     
     <item>
       <title>Работа с библиографией</title>
-      <link>https://example.com/ru/post/working-with-bibliography/</link>
+      <link>https://adchvanova.github.io/ru/post/working-with-bibliography/</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/working-with-bibliography/</guid>
+      <guid>https://adchvanova.github.io/ru/post/working-with-bibliography/</guid>
       <description>&lt;h2 id=&#34;в-рабочей-библиографии-перечислены-все-источники-которые-вы-можете-использовать-в-своем-исследовательском-эссе&#34;&gt;В рабочей библиографии перечислены все источники, которые вы можете использовать в своем исследовательском эссе.&lt;/h2&gt;
 &lt;p&gt;В рабочей библиографии перечислены все источники, которые вы можете использовать в своем исследовательском эссе. Это «рабочий» документ в двух отношениях. Во-первых, она будет меняться на протяжении всего исследовательского процесса — расширяться каждый раз, когда вы добавляете потенциально полезный источник, и сужаться, когда вы опускаете источники, которые оказались менее актуальными, чем вы ожидали. Кроме того, как только вы напишете эссе, ваша рабочая библиография изменится в последний раз, став списком цитируемых работ. Во-вторых, вы можете использовать свою библиографию для организации и отслеживания своей исследовательской «работы». С этой целью некоторые исследователи делят библиографию на три части: (1) источники, которые им необходимо найти, (2) источники, которые они обнаружили и думают, что будут использовать, и (3) источники, которые они обнаружили, но считают, что они, вероятно, будут использоваться. не будет использовать.
 Поскольку вам нужно будет регулярно обновлять свою библиографию и поскольку она в конечном итоге станет ядром вашего списка цитируемых работ, вам следует подумать об использовании компьютера. В этом случае вам нужно будет распечатать копию или взять с собой ноутбук каждый раз, когда вы идете в библиотеку. Однако некоторые исследователи считают полезным также или вместо них использовать карточки для заметок, создавая отдельную карточку для каждого источника. Затем вы можете физически разделить карты, посвященные источникам, которые необходимо найти, уже обнаруженным источникам и «отклоненным» источникам. Однако на случай, если ваши карты перепутаются, вы также всегда должны указывать статус источника на карте.&lt;/p&gt;
@@ -51,9 +51,9 @@ Python — это объектно-ориентированный расширя
     
     <item>
       <title>Язык Markdown</title>
-      <link>https://example.com/ru/post/markdown-language/</link>
+      <link>https://adchvanova.github.io/ru/post/markdown-language/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markdown-language/</guid>
+      <guid>https://adchvanova.github.io/ru/post/markdown-language/</guid>
       <description>&lt;h2 id=&#34;markdown-должен-быть-настолько-простым-для-чтения-и-написания-насколько-это-возможно&#34;&gt;Markdown должен быть настолько простым для чтения и написания, насколько это возможно.&lt;/h2&gt;
 &lt;p&gt;Читаемость, однако, подчеркивается прежде всего. Документ в формате Markdown должен публиковаться как есть, как обычный текст, и не выглядеть так, как будто он был размечен тегами или инструкциями по форматированию. Хотя на синтаксис Markdown повлияло несколько существующих фильтров преобразования текста в HTML , включая Setext, atx, Textile, reStructuredText, Grutatext и EtText , единственным источником вдохновения для синтаксиса Markdown является формат электронной почты в виде обычного текста.&lt;/p&gt;
 &lt;p&gt;С этой целью синтаксис Markdown полностью состоит из знаков пунктуации, которые были тщательно подобраны так, чтобы они выглядели так, как они означают. Например, звездочки вокруг слова на самом деле выглядят как &lt;em&gt;выделение&lt;/em&gt;. Списки Markdown выглядят как списки. Даже цитаты выглядят как цитируемые фрагменты текста, если вы когда-либо пользовались электронной почтой.&lt;/p&gt;
@@ -63,9 +63,9 @@ Python — это объектно-ориентированный расширя
     
     <item>
       <title>Добро пожаловать в Wowchemy, конструктор сайтов для Hugo</title>
-      <link>https://example.com/ru/post/getting-started/</link>
+      <link>https://adchvanova.github.io/ru/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/getting-started/</guid>
+      <guid>https://adchvanova.github.io/ru/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Конструктор веб-сайтов Wowchemy для Hugo вместе с его начальными шаблонами предназначен для профессиональных создателей, преподавателей и команд/организаций, хотя его можно использовать для создания любого типа сайта.&lt;/li&gt;
@@ -77,9 +77,9 @@ Python — это объектно-ориентированный расширя
     
     <item>
       <title>Контроль версий Git</title>
-      <link>https://example.com/ru/post/version_control/</link>
+      <link>https://adchvanova.github.io/ru/post/version_control/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/version_control/</guid>
+      <guid>https://adchvanova.github.io/ru/post/version_control/</guid>
       <description>&lt;h2 id=&#34;что-такое-контроль-версий-и-почему-вас-это-должно-волновать&#34;&gt;Что такое «контроль версий» и почему вас это должно волновать?&lt;/h2&gt;
 &lt;p&gt;Контроль версий — это система, которая записывает изменения в файле или наборе файлов с течением времени, чтобы вы могли позже вызвать определенные версии. Для примеров в этой книге вы будете использовать исходный код программного обеспечения в качестве файлов, контролируемых версиями, хотя на самом деле вы можете сделать это практически с любым типом файла на компьютере.&lt;/p&gt;
 &lt;p&gt;Если вы графический или веб-дизайнер и хотите сохранить каждую версию изображения или макета (что вам, безусловно, нужно), очень разумно использовать систему контроля версий (VCS). Это позволяет вам возвращать выбранные файлы обратно в предыдущее состояние, возвращать весь проект обратно в предыдущее состояние, сравнивать изменения во времени, видеть, кто последним изменил что-то, что может вызвать проблему, кто внес проблему и когда, и многое другое. Использование VCS также обычно означает, что если вы что-то испортите или потеряете файлы, вы сможете легко восстановиться. Кроме того, вы получаете все это за очень небольшие накладные расходы.&lt;/p&gt;
