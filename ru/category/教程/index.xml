@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 | Academic</title>
+    <link>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</link>
+      <atom:link href="https://example.com/ru/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <description>教程</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>教程</title>
+      <link>https://example.com/ru/category/%E6%95%99%E7%A8%8B/</link>
+    </image>
+    
+    <item>
+      <title>Добро пожаловать в Wowchemy, конструктор сайтов для Hugo</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Конструктор веб-сайтов Wowchemy для Hugo вместе с его начальными шаблонами предназначен для профессиональных создателей, преподавателей и команд/организаций, хотя его можно использовать для создания любого типа сайта.&lt;/li&gt;
+&lt;li&gt;Шаблон можно изменить и настроить в соответствии с вашими потребностями. Это хорошая платформа для тех, кто хочет взять под контроль свои данные и онлайн-идентификацию, имея при этом удобство начать с &lt;strong&gt;решения без кода (пишите в Markdown и настраивайте с помощью параметров YAML)&lt;/strong&gt; и имея &lt;strong&gt;гибкость для последующего использования. добавьте еще более глубокую персонализацию с помощью HTML и CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Вы можете работать со всеми вашими любимыми инструментами и приложениями с сотнями плагинов и интеграций, чтобы ускорить ваши рабочие процессы, взаимодействовать с вашими читателями и многое другое.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
